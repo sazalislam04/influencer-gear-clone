@@ -54,11 +54,6 @@ body {
     margin-left: 3px;
 }
 
-/* menu bar and cart */
-.menu-bar,
-.cart {
-    display: none;
-}
 
 /* menu-bar */
 #header .small-screen {
@@ -101,6 +96,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 100%;
 }
 
 .hero-left {
